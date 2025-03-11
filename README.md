@@ -1,6 +1,6 @@
 # Task Board System with Laravel, Livewire, and SortableJS
 
-![Task Board](https://imgur.com/a/G3MpIHj)
+![Task Board](https://i.imgur.com/IXvKHfF.png)
 
 ## 🚀 Description
 
